@@ -1,5 +1,6 @@
 # NLP
 
+You can download datasets on website.
 
 Spam or not spam dataset : https://www.kaggle.com/ozlerhakan/spam-or-not-spam-dataset
 
